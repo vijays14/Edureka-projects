@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Write an XML file student having the information about Student's id, 
+	name, std, gender, marks and address -->
+<Students_Data>
+   <Student id="1006">
+      <Name>Emma</Name>
+      <Standard>6</Standard>
+      <Gender>Female</Gender>
+      <Marks>
+         <First_Sem_Marks>90</First_Sem_Marks>
+         <Second_Sem_Marks>91</Second_Sem_Marks>
+         <Third_Sem_Marks>89</Third_Sem_Marks>
+      </Marks>
+      <Address>
+      <State>NewYork</State>
+      <City>Amsterdam</City>
+      </Address>
+   </Student>
+   <Student id="1007">
+      <Name>Sophia</Name>
+      <Standard>5</Standard>
+      <Gender>Female</Gender>
+      <Marks>
+         <First_Sem_Marks>97</First_Sem_Marks>
+         <Second_Sem_Marks>98</Second_Sem_Marks>
+         <Third_Sem_Marks>92</Third_Sem_Marks>
+      </Marks>
+      <Address>
+      <State>NewYork</State>
+      <City>Buffalo</City>
+      </Address>
+   </Student>
+   <Student id="1008">
+      <Name>James</Name>
+      <Standard>6</Standard>
+      <Gender>Male</Gender>
+      <Marks>
+         <First_Sem_Marks>99</First_Sem_Marks>
+         <Second_Sem_Marks>98</Second_Sem_Marks>
+         <Third_Sem_Marks>100</Third_Sem_Marks>
+      </Marks>
+      <Address>
+       <State>Virginia</State>
+      <City>Richmond</City>
+      </Address>
+   </Student>
+   <Student id="1009">
+      <Name>Olivia</Name>
+      <Standard>5</Standard>
+      <Gender>Female</Gender>
+      <Marks>
+         <First_Sem_Marks>99</First_Sem_Marks>
+         <Second_Sem_Marks>99</Second_Sem_Marks>
+         <Third_Sem_Marks>99</Third_Sem_Marks>
+      </Marks>
+      <Address>
+      <State>California</State>
+      <City>Los Angeles</City></Address>
+   </Student>
+   <Student id="1010">
+      <Name>Daniel</Name>
+      <Standard>5</Standard>
+      <Gender>Male</Gender>
+      <Marks>
+         <First_Sem_Marks>87</First_Sem_Marks>
+         <Second_Sem_Marks>88</Second_Sem_Marks>
+         <Third_Sem_Marks>80</Third_Sem_Marks>
+      </Marks>
+      <Address>
+      <State>California</State>
+      <City>San Diego</City>
+      </Address>
+   </Student>
+   <Student id="1011">
+      <Name>Zack</Name>
+      <Standard>6</Standard>
+      <Gender>Male</Gender>
+      <Marks>
+         <First_Sem_Marks>95</First_Sem_Marks>
+         <Second_Sem_Marks>85</Second_Sem_Marks>
+         <Third_Sem_Marks>92</Third_Sem_Marks>
+      </Marks>
+      <Address>
+      <State>NewJersey</State>
+      <City>Newark</City>
+      </Address>
+   </Student>
+</Students_Data>
+<!-- Write an XML file student having the information about Student's id, 
+	name, std, gender, marks and address -->

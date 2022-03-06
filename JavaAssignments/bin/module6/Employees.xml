@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees xmlns="Module6 Assignment">
+   <Employee id="1093">
+      <Name>Kristy Abott</Name>
+      <Department>Human Resource</Department>
+   </Employee>
+   <Employee id="1094">
+      <Name>John Gibson</Name>
+      <Department>Finance</Department>
+   </Employee>
+   <Employee id="1108">
+      <Name>Douglus deborah</Name>
+      <Department>Fire and Safety</Department>
+   </Employee>
+   <Employee id="1115">
+      <Name>Ryan Amig</Name>
+      <Department>Food</Department>
+   </Employee>
+   <Employee id="1256">
+      <Name>Tom Turner</Name>
+      <Department>Logistics</Department>
+   </Employee>
+</Employees>
